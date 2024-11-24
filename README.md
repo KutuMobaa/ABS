@@ -39,7 +39,3 @@
 
 
 # root only, do with your own risk
-
-#
-
-[CHANGELOG](https://t.me/kutu_Moba57/71111)
