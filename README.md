@@ -1,4 +1,4 @@
-# ABS [ ADVANCED BATTERY SAVING ]
+# ABS [ ADVANCED BATTERY SAVING ] V 5.7
 
 *⦿ Advanced battery saving to save more battery*
 
@@ -6,21 +6,32 @@
  
 
 # MODE :
+
 *❖ If the screen is off, the battery is above 20%, and it is not charging = enable.*
+
 *❖ If the screen is off, the battery is above 20%, and it is charging = disable.*
+
 *❖ If the screen is on, the battery is above 20%, whether it is charging or not = disable.*
 
+
 *❖ If the screen is on, the battery is below 20%, and it is not charging = enable.*
+
 *❖ If the screen is on, the battery is below 20%, and it is charging = disable.*
+
 *❖ If the screen is off, the battery is below 20%, and it is not charging = enable.*
+
 *❖ If the screen is off, the battery is below 20%, and it is charging = disable.*
 
 **🔘 disabled = not in power saving mode**
+
 **🔘 enabled = in power saving mode**
 
 # INSTALLATION : 
+
 *⊙ flash*
+
 *⊙ reboot system*
+
 *⊙ enjoy*
 
 # NOTES: 
@@ -28,6 +39,7 @@
 
 
 # root only, do with your own risk
+
 #
 
-[DOWNLOAD](https://raw.githubusercontent.com/KutuMobaa/ABS/main/CHANGELOG.md)
+[CHANGELOG](https://t.me/kutu_Moba57/71111)
