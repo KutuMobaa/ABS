@@ -7,3 +7,4 @@ clear
 $MODDIR/ABS 2>/dev/null
 
 # module komplit download di grub telegram Kutu Moba
+# https://t.me/kutuMobaUpdate/447
