@@ -1,4 +1,4 @@
-# ABS [ ADVANCED BATTERY SAVING ] V5.67
+# ABS [ ADVANCED BATTERY SAVING ]
 
 *⦿ Advanced battery saving to save more battery*
 
