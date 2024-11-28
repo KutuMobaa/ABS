@@ -6,5 +6,5 @@ clear
 
 $MODDIR/ABS 2>/dev/null
 
-# module komplit download di grub telegram Kutu Moba
+# module komplit download di grub telegram Kutu Moba Official
 # https://t.me/kutuMobaUpdate/447
